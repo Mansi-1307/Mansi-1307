@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Mansi-1307
-- 👀 I’m interested in Data Science 
-- 🌱 I’m currently learning Machine Learning
+- 👋 Hi, I’m @Mansi-1307 
+- 🌱 I’m currently doing a project based on Machine Learning
+- 🌱 I am currently exploring in the field of Computer Science
 - 📫 How to reach me
                   Email📩: gmansi887@gmail.com 
                      
