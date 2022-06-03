@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Machine Learning
 - 📫 How to reach me
                   Email📩: gmansi887@gmail.com 
-                  Ig:man_si.vhare    
+                     
 
 <!---
 Mansi-1307/Mansi-1307 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
